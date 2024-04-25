@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Di4sel
-- 👀 I’m interested in Numerical Computation
+- 👀 I’m interested in Numerical Calculus
 - 🌱 I’m currently learning C++ for Fluid Dynamics
 - 💞️ I’m looking to collaborate on projects related to Fluid Dynamics
 - 📫 How to reach me: rodolfopazedias@gmail.com
